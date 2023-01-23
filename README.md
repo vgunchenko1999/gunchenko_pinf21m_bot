@@ -3,7 +3,7 @@
 
 :file_folder: **Стек технологий:**
 1. JavaScript
-2. Cisual Studio Code
+2. Visual Studio Code
 3. Node.js
 4. GitHub
 
