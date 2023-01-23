@@ -6,6 +6,7 @@
 2. Cisual Studio Code
 3. Node.js
 4. GitHub
+
 :floppy_disk: **Скриншоты**
 <div>
   <img src="https://github.com/vgunchenko1999/gunchenko_pinf21m_bot/blob/master/1.jpg" width="200" />
